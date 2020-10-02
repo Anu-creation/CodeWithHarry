@@ -1,4 +1,4 @@
-# CodeWithHarry - A Legend Who Transformed The Life Of Many Students
+# CodeWithHarry - A Legend Who Transformed The Life Of Many Students in coding
 Harry Bhai is a Coder who has helped many coders to learn many languages
 A gift to codewithharry. Hope you love it
 
